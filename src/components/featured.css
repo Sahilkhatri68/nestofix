@@ -1,0 +1,41 @@
+.topinfo{
+    display: flex;
+    width: 90%;
+    margin: 30px auto;
+    justify-content: space-between;
+}
+.leftinfo{
+    font-size: 20px;
+}
+.btnviewall{
+    border: none;
+    border-radius: 4px;
+    background-color: #db378c;
+    color: white;
+    font-size: 18px;
+}
+.fetcard{
+    width: 330px;
+    padding: 20px;
+    margin: auto 0px auto 0px;
+}
+.outrcard{
+    width: 100%;
+}
+.cardinfo{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ebeeef;
+    padding: 7px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.cardimg{
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.desc{
+    color: black;
+
+}

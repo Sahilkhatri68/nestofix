@@ -1,0 +1,33 @@
+.mainfooter{
+    background-color: #1616ff;
+}
+.stardiv{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.starimg{
+    width: 30%;
+    margin: 15px auto;
+}
+.head3{
+    color: white;
+    font-weight: 400;
+}
+.botmfoot{
+    text-align: center;
+    align-items: center;
+}
+.ratingbtn{
+    border: none;
+    text-align: center;
+    align-items: center;
+    border-radius: 6px;
+    color: blue;
+    margin-bottom: 20px;
+    height: 40px;
+    width: auto;
+    
+}

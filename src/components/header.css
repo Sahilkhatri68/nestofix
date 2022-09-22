@@ -1,0 +1,11 @@
+.container-fluid{
+    width: 93%;
+    font-size: 18px;
+}
+.navbar-brand{
+    font-size: 29px;
+    font-weight: 500;
+}
+.navbar {
+    background-color: #e9e8e8;
+}
