@@ -1,6 +1,11 @@
+.maintop{
+    width: 90%;
+    margin: auto;
+
+}
 .topinfo{
     display: flex;
-    width: 90%;
+    width: 100%;
     margin: 30px auto;
     justify-content: space-between;
 }
@@ -16,7 +21,6 @@
 }
 .fetcard{
     width: 330px;
-    padding: 20px;
     margin: auto 0px auto 0px;
 }
 .outrcard{

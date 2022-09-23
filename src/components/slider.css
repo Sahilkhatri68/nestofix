@@ -1,6 +1,18 @@
 .mainSlider{
     width: 100%;
     margin: auto;
+    height: 60vh;
     
 
 }
+ .mainCarosel{
+    width: 100%;
+    margin: auto;
+    height: 65vh;
+ }
+  .caroImg{
+    width: 100%;
+     margin: auto;
+    height: 65vh;
+    background-size: cover;
+  }

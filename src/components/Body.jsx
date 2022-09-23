@@ -5,6 +5,7 @@ import Footer from './Footer'
 import Header from './Header'
 import Slider from './Slider'
 import "./body.css"
+import Ourservice from './Ourservice'
 function Body() {
   return (
     <div>
@@ -20,6 +21,9 @@ function Body() {
             </div>
             <div >
                 <Featured/>
+            </div>
+            <div >
+                {/* <Ourservice/> */}
             </div>
             <div>
                 <Footer/>

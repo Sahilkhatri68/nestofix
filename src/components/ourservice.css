@@ -1,0 +1,44 @@
+ body {
+     /* background: rgb(15, 34, 68); */
+ }
+
+ .App {
+     font-family: sans-serif;
+     text-align: center;
+ }
+
+ .image {
+     height: 20pc;
+     width: 100%;
+     border-radius: 10px;
+ }
+
+ .image.image1 {
+     background-image:url("./Images/b4.webp") ;
+     background-size: cover;
+ }
+
+ .image.image2 {
+     background-image:url("./Images/b4.webp") ;
+     background-size: cover;
+ }
+
+ .image.image3 {
+     background-image:url("./Images/b4.webp") ;
+     background-size: cover;
+ }
+
+ .image.image4 {
+     background-image:url("./Images/b4.webp") ;
+     background-size: cover;
+ }
+
+ .image.image5 {
+     background-image:url("./Images/b4.webp") ;
+     background-size: cover;
+ }
+
+ .image.image6 {
+     background-image:url("./Images/b4.webp") ;
+     background-size: cover;
+ }
