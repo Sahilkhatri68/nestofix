@@ -80,4 +80,13 @@
         margin-top: 50px;
     }
  }
- 
+ @media(max-width:550px){
+    .itemcat{
+        justify-content: center;
+        margin: auto;
+    }
+    .carditem{
+        width: 200px;
+        margin: 15px;
+    }
+ }
