@@ -20,8 +20,9 @@
     font-size: 18px;
 }
 .fetcard{
-    width: 300px;
+    width: 238px;
     margin: auto 10px 40px 0px;
+    display: inline-block;
 }
 .outrcard{
      height: 250px;
@@ -88,6 +89,8 @@
 .cardcont{
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 .pricee{
     background-color: #0089ff;
