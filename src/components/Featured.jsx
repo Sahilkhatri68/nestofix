@@ -13,10 +13,12 @@ function Featured() {
         <div className="leftinfo"><h1>Featured</h1></div>
         <div className=""><button className='btnviewall'>View all</button></div>
       </div>
-      <div>
+      <div className='cardcont'>
       <div className='fetcard'>
           <div className='outrcard'>
-            <img src={card1} className="cardimg"></img>
+            <div className='outerfloat'>
+              <div className='floatdiv'><marquee className="marque">Enter Service</marquee></div>
+              </div>
           </div>
           <div className='cardinfo'>
             <div >
@@ -24,11 +26,11 @@ function Featured() {
               <div className="desc">Blockage in Toiled seat</div>
             </div>
             <div>
-              <div>
-              <h5> {Intl.NumberFormat("en-US", {
+              <div className="pricee">
+              <h6 style={{marginTop:4}}> {Intl.NumberFormat("en-US", {
                             style: "currency",
                             currency: "INR",
-                          }).format(500)}</h5>
+                          }).format(500)}</h6>
               </div>
             </div>
           </div>

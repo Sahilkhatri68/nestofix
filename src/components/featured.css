@@ -24,15 +24,33 @@
     margin: auto 0px auto 0px;
 }
 .outrcard{
+     height: 250px;
+    background-image: url("./Images/card1.jpg");
+    background-size: cover;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.outerfloat{
     width: 100%;
+}
+.floatdiv{
+    width: 30%;
+    background-color: white;
+    border-radius: 40px;
+    
+}
+.marque{
+    color: rgb(38, 38, 243);
+    font-weight: 500;
 }
 .cardinfo{
     display: flex;
     justify-content: space-between;
     background-color: #ebeeef;
     padding: 7px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
 }
 .cardimg{
     width: 100%;
@@ -41,5 +59,22 @@
 }
 .desc{
     color: black;
+
+}
+.cardcont{
+    width: 100%;
+    display: flex;
+}
+.pricee{
+    background-color: blue;
+    border: 2px solid white;
+    padding: 0px 5px;
+    position: relative;
+    top: -23px;
+    color: white;
+    border-radius: 40px;
+    text-align: center;
+    align-items: center;
+    margin-top: 2px;
 
 }
