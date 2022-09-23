@@ -44,7 +44,7 @@ function Featured() {
           <div className='cardinfo'>
             <div >
               <div className="starleft"><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /></div>
-              <div className="desc">Blockage in Toiled seat</div>
+              <div className="desc">Carpenter Work</div>
             </div>
             <div>
               <div className="pricee">
@@ -65,7 +65,7 @@ function Featured() {
           <div className='cardinfo'>
             <div >
               <div className="starleft"><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /></div>
-              <div className="desc">Blockage in Toiled seat</div>
+              <div className="desc">Electrician Work</div>
             </div>
             <div>
               <div className="pricee">
@@ -86,7 +86,7 @@ function Featured() {
           <div className='cardinfo'>
             <div >
               <div className="starleft"><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /></div>
-              <div className="desc">Blockage in Toiled seat</div>
+              <div className="desc">Construction Work</div>
             </div>
             <div>
               <div className="pricee">
