@@ -1,11 +1,29 @@
 .container-fluid{
     width: 93%;
-    font-size: 18px;
+    font-size: 14px;
 }
 .navbar-brand{
-    font-size: 29px;
+    font-size: 19px;
     font-weight: 500;
 }
 .navbar {
-    background-color: #e9e8e8;
+    /* background-color: #e9e8e8; */
+}
+.mei-2{
+height: 30px;
+/* width: 90px; */
+padding: 7px;
+color: black;
+border :1px solid rgb(216, 210, 210);
+border-radius: 0px;
+margin-right: 0px;
+}
+.form-control:focus{
+    box-shadow: none;
+
+}
+.btn-outline-success{
+height: 30px;
+padding: 0px 3px 1px 3px;
+border-radius: 0px;
 }

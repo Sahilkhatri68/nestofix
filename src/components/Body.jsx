@@ -4,7 +4,7 @@ import Featured from './Featured'
 import Footer from './Footer'
 import Header from './Header'
 import Slider from './Slider'
-
+import "./body.css"
 function Body() {
   return (
     <div>
@@ -15,10 +15,10 @@ function Body() {
             <div>
                 <Slider/>
             </div>
-            <div>
+            <div  >
                 <Category/>
             </div>
-            <div>
+            <div >
                 <Featured/>
             </div>
             <div>

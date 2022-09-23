@@ -13,6 +13,7 @@ import vec9 from "./Images/vec12.jpg"
 // import vec10 from "./Images/vec13.jpg"
 function Category() {
     return (
+        <div className='maincatbg'>
         <div className='maincat'>
             <div className="cathead">
                 <div>  <h1>Top Categories</h1></div>
@@ -62,6 +63,7 @@ function Category() {
                     <div className='botmcont'><p className='para'>Renovation Service</p></div>
                 </div> */}
             </div>
+        </div>
         </div>
     )
 }

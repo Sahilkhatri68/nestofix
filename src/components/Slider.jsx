@@ -6,10 +6,13 @@ import banner2 from "./Images/b2.webp"
 import banner3 from "./Images/b3.webp"
 import banner4 from "./Images/b4.webp"
 import "./slider.css"
+  
 function Slider() {
+    
     return (
         <div className='mainSlider'>
-           <img src={banner4} style={{width:"100%"}}/>
+            <img src={banner4} style={{width:"100%"}}/>
+            
         </div>
     )
 }
