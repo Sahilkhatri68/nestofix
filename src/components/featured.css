@@ -14,18 +14,42 @@
 }
 .btnviewall{
     border: none;
-    border-radius: 4px;
+    border-radius: 0px;
     background-color: #db378c;
     color: white;
     font-size: 18px;
 }
 .fetcard{
-    width: 330px;
-    margin: auto 0px auto 0px;
+    width: 300px;
+    margin: auto 10px 40px 0px;
 }
 .outrcard{
      height: 250px;
-    background-image: url("./Images/card1.jpg");
+    background-image: url("./Images/plum.jpg");
+    background-size: cover;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.outrcardone{
+     height: 250px;
+    background-image: url("./Images/carpenter.jpg");
+    background-size: cover;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.outrcardtwo{
+     height: 250px;
+    background-image: url("./Images/elec.jpg");
+    background-size: cover;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.outrcardthree{
+     height: 250px;
+    background-image: url("./Images/const.webp");
     background-size: cover;
     padding: 15px;
     border-top-left-radius: 10px;
@@ -66,9 +90,9 @@
     display: flex;
 }
 .pricee{
-    background-color: blue;
+    background-color: #0089ff;
     border: 2px solid white;
-    padding: 0px 5px;
+    padding: 0px 15px;
     position: relative;
     top: -23px;
     color: white;
@@ -76,5 +100,6 @@
     text-align: center;
     align-items: center;
     margin-top: 2px;
+   
 
 }

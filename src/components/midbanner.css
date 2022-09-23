@@ -1,0 +1,14 @@
+.outerban{
+    width: 90%;
+    margin:auto;
+}
+.insideban{
+    width: 100%;
+    margin: auto;
+    margin: 40px auto 40px auto ;
+}
+.banimg{
+    width: 100%;
+    margin: auto;
+    height: 250px;
+}

@@ -35,6 +35,69 @@ function Featured() {
             </div>
           </div>
         </div>
+      <div className='fetcard'>
+          <div className='outrcardone'>
+            <div className='outerfloat'>
+              <div className='floatdiv'><marquee className="marque">Enter Service</marquee></div>
+              </div>
+          </div>
+          <div className='cardinfo'>
+            <div >
+              <div className="starleft"><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /></div>
+              <div className="desc">Blockage in Toiled seat</div>
+            </div>
+            <div>
+              <div className="pricee">
+              <h6 style={{marginTop:4}}> {Intl.NumberFormat("en-US", {
+                            style: "currency",
+                            currency: "INR",
+                          }).format(500)}</h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      <div className='fetcard'>
+          <div className='outrcardtwo'>
+            <div className='outerfloat'>
+              <div className='floatdiv'><marquee className="marque">Enter Service</marquee></div>
+              </div>
+          </div>
+          <div className='cardinfo'>
+            <div >
+              <div className="starleft"><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /></div>
+              <div className="desc">Blockage in Toiled seat</div>
+            </div>
+            <div>
+              <div className="pricee">
+              <h6 style={{marginTop:4}}> {Intl.NumberFormat("en-US", {
+                            style: "currency",
+                            currency: "INR",
+                          }).format(500)}</h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      <div className='fetcard'>
+          <div className='outrcardthree'>
+            <div className='outerfloat'>
+              <div className='floatdiv'><marquee className="marque">Enter Service</marquee></div>
+              </div>
+          </div>
+          <div className='cardinfo'>
+            <div >
+              <div className="starleft"><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /><StarBorderIcon /></div>
+              <div className="desc">Blockage in Toiled seat</div>
+            </div>
+            <div>
+              <div className="pricee">
+              <h6 style={{marginTop:4}}> {Intl.NumberFormat("en-US", {
+                            style: "currency",
+                            currency: "INR",
+                          }).format(500)}</h6>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )

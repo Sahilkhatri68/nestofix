@@ -6,6 +6,7 @@ import Header from './Header'
 import Slider from './Slider'
 import "./body.css"
 import Ourservice from './Ourservice'
+import Midbanner from './Midbanner'
 function Body() {
   return (
     <div>
@@ -18,6 +19,9 @@ function Body() {
             </div>
             <div  >
                 <Category/>
+            </div>
+            <div  >
+                <Midbanner/>
             </div>
             <div >
                 <Featured/>
